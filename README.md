@@ -8,5 +8,5 @@ Na era digital, a robótica é uma ferramenta poderosa para o desenvolvimento de
 
 Este projeto utiliza React para criar uma página que atua como intermediária para acessar outra página hospedada no GitHub. O uso do React possibilita uma maior compatibilidade com diferentes plataformas, permitindo que a interface seja executada de forma responsiva em dispositivos móveis, tablets e desktops. Essa abordagem garante que a experiência do usuário seja consistente e adaptável, independente do dispositivo utilizado.
 
-##Acesso 
+###Acesso 
 Acesso à versão hospedada: O projeto está hospedado no Firebase Hosting e pode ser acessado em carrinhoeducativo.web.app
